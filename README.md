@@ -8,12 +8,12 @@
 ---
 
 ### 👀 About Me:
-- 🌱 Currently learning **Web Development** (HTML, CSS, JavaScript, React)
-- 💻 Exploring **Salesforce Development** 🚀
-- 🔭 Working on **Front-End Projects**
+- 🌱 Currentlya Salesforce Developer
+- 💻 Exploring **Salesforce LWC and Mulesoft** 🚀
+- 🔭 Working on **APEX & LWC**
 - 💡 Open to **Collaboration & Research Projects**
-- 🎯 Passionate about **UI/UX & Cloud Technologies**
-- 📫 Reach me at **[Your Email or Social Links]**
+- 🎯 Passionate about **UI/UX & Cloud Technologies(Sales and Health Cloud)**
+- 📫 Reach me at @abhiramvanamali@gmail.com
 
 ---
 
