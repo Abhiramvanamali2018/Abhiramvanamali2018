@@ -8,7 +8,7 @@
 ---
 
 ### 👀 About Me:
-- 🌱 Currentlya Salesforce Developer
+- 🌱 Currently a Salesforce Developer
 - 💻 Exploring **Salesforce LWC and Mulesoft** 🚀
 - 🔭 Working on **APEX & LWC**
 - 💡 Open to **Collaboration & Research Projects**
